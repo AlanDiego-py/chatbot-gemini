@@ -13,3 +13,6 @@ O app funciona como um chat inteligente, capaz de responder perguntas de forma c
 - Pytest
 # Teste no Pytest
 ![Imagem](https://github.com/AlanDiego-py/chatbot-gemini/blob/main/test.png)
+
+# 🚀Projeto em execução 
+![Imagem2](https://github.com/AlanDiego-py/chatbot-gemini/blob/main/chat.png)
